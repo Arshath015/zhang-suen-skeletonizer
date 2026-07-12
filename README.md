@@ -1,4 +1,6 @@
 # Zhang-Suen Skeletonization for Image Processing
+
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 [![PyPI version](https://badge.fury.io/py/zhang-suen-skeletonizer.svg)](https://pypi.org/project/zhang-suen-skeletonizer)
 [![Build Status](https://travis-ci.org/your-username/zhang-suen-skeletonizer.svg?branch=main)](https://travis-ci.org/your-username/zhang-suen-skeletonizer)
 ## Overview
