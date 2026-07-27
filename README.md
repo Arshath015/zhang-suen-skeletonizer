@@ -58,3 +58,9 @@ The algorithm assumes that the input image is a binary image. If the input image
 * Add support for color images
 ## License
 The Zhang-Suen Skeletonizer is licensed under the MIT License.
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
