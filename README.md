@@ -64,3 +64,7 @@ The Zhang-Suen Skeletonizer is licensed under the MIT License.
 ```
 pip install -r requirements.txt
 ```
+
+
+---
+**Last updated:** 2026-08-05
